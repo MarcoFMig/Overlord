@@ -14,4 +14,4 @@ java --version
 ## Screenshots
 
 ## License
-[![License: proprietary]()]
+[Proprietary License](https://github.com/MarcoFMig/Overlord/blob/main/LICENSE)
